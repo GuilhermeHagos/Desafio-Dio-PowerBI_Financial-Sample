@@ -1,0 +1,1 @@
+Projeto criado com o intuito de atender o desafio de financial Sample no Power BI. Visualizações criadas a partir de Financial Sample distribuída pelo Power BI de modo a criar relatõrios sobre desempenhos em Vendas, lucros por país, segmento, entre outras.
